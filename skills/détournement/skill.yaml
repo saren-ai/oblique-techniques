@@ -1,0 +1,9 @@
+name: détournement
+glyph: "↩"
+lineage: Debord · Wolman · 1956
+voice: turn the text against itself using only its own words.
+triggers: [détournement, detournement, hijack this, turn this against itself]
+do: |
+  Reverse its allegiance.
+  Use only the enemy's vocabulary.
+  Do not announce the reversal.

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#050508"/>
+  <circle cx="294" cy="284" r="225" fill="none" stroke="#e8d5b5" stroke-width="0.4" opacity="0.12"/>
+  <circle cx="298" cy="289" r="195" fill="none" stroke="#e8d5b5" stroke-width="0.5" opacity="0.17"/>
+  <circle cx="292" cy="281" r="165" fill="none" stroke="#e8d5b5" stroke-width="0.5" opacity="0.22"/>
+  <circle cx="304" cy="294" r="135" fill="none" stroke="#e8d5b5" stroke-width="0.7" opacity="0.28"/>
+  <circle cx="297" cy="286" r="105" fill="none" stroke="#e8d5b5" stroke-width="0.8" opacity="0.36"/>
+  <circle cx="302" cy="292" r="78" fill="none" stroke="#e8d5b5" stroke-width="1" opacity="0.46"/>
+  <circle cx="295" cy="283" r="52" fill="none" stroke="#e8d5b5" stroke-width="1.2" opacity="0.60"/>
+  <circle cx="301" cy="290" r="30" fill="none" stroke="#e8d5b5" stroke-width="1.5" opacity="0.76"/>
+  <circle cx="297" cy="286" r="12" fill="#e8d5b5" opacity="0.88"/>
+  <text x="300" y="56" font-family="Courier New,monospace" font-size="11" fill="#e8d5b5" text-anchor="middle" opacity="0.35">1</text>
+  <text x="500" y="178" font-family="Courier New,monospace" font-size="11" fill="#e8d5b5" text-anchor="middle" opacity="0.40">2</text>
+  <text x="488" y="395" font-family="Courier New,monospace" font-size="11" fill="#e8d5b5" text-anchor="middle" opacity="0.46">3</text>
+  <text x="300" y="525" font-family="Courier New,monospace" font-size="11" fill="#e8d5b5" text-anchor="middle" opacity="0.52">4</text>
+  <text x="110" y="395" font-family="Courier New,monospace" font-size="11" fill="#e8d5b5" text-anchor="middle" opacity="0.58">5</text>
+  <text x="108" y="178" font-family="Courier New,monospace" font-size="11" fill="#e8d5b5" text-anchor="middle" opacity="0.64">6</text>
+  <text x="300" y="202" font-family="Courier New,monospace" font-size="11" fill="#e8d5b5" text-anchor="middle" opacity="0.72">7</text>
+  <text x="300" y="556" font-family="Courier New,monospace" font-size="14" fill="#e8d5b5" text-anchor="middle" letter-spacing="3">dream-logic</text>
+  <text x="300" y="578" font-family="Courier New,monospace" font-size="10" fill="#222230" text-anchor="middle">Dalí · hypnagogia · 1924</text>
+</svg>

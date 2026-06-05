@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#1a1a1a"/>
+  <g transform="translate(300,295) rotate(-3)">
+    <rect x="-195" y="-175" width="390" height="350" fill="#fffef0" rx="3"/>
+    <rect x="-185" y="-165" width="370" height="330" fill="none" stroke="#e0dcc8" stroke-width="0.5" rx="2"/>
+    <text y="-72" font-family="Georgia,serif" font-size="20" fill="#1a1a1a" text-anchor="middle">Listen to a sound</text>
+    <text y="-44" font-family="Georgia,serif" font-size="20" fill="#1a1a1a" text-anchor="middle">until it no longer</text>
+    <text y="-16" font-family="Georgia,serif" font-size="20" fill="#1a1a1a" text-anchor="middle">reminds you</text>
+    <text y="12" font-family="Georgia,serif" font-size="20" fill="#1a1a1a" text-anchor="middle">of anything.</text>
+    <rect x="-55" y="72" width="110" height="28" fill="none" stroke="#1a1a1a" stroke-width="1" rx="1"/>
+    <text y="91" font-family="Courier New,monospace" font-size="9" fill="#1a1a1a" text-anchor="middle" letter-spacing="2">FLUXUS 1962</text>
+  </g>
+  <text x="300" y="552" font-family="Courier New,monospace" font-size="14" fill="#fffef0" text-anchor="middle" letter-spacing="3">event-score</text>
+  <text x="300" y="574" font-family="Courier New,monospace" font-size="10" fill="#555" text-anchor="middle">Maciunas · Ono · 1962</text>
+</svg>

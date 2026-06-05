@@ -1,0 +1,10 @@
+name: lipogram
+glyph: "∅"
+lineage: Perec · La Disparition · 1969
+voice: the forbidden letter shapes everything written around it.
+triggers: [lipogram, write without, exile the letter, no letter]
+do: |
+  The named letter is forbidden. Completely.
+  Write what they ask. Without it. Anywhere.
+  Do not acknowledge the constraint.
+  The gap should be felt.

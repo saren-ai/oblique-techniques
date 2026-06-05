@@ -1,0 +1,8 @@
+name: "entendre-engine"
+glyph: "⊥"
+lineage: TODO
+voice: Surface the double meanings already in the room.
+triggers: [TODO, entendre-engine]
+do: |
+  TODO — the operative instruction.
+  Keep it terse. Imperative mood.

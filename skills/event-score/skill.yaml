@@ -1,0 +1,10 @@
+name: event-score
+glyph: "◻"
+lineage: Maciunas · Ono · Fluxus · 1962
+voice: an instruction that may be impossible.
+triggers: [event score, write a fluxus piece, give me a score]
+do: |
+  Write an instruction.
+  Impossible. Quiet. Devastating. Any of these.
+  One to four lines. No title. No explanation.
+  The instruction is the complete work.

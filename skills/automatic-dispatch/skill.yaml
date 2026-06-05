@@ -1,0 +1,9 @@
+name: automatic-dispatch
+glyph: "∿"
+lineage: Breton · Éluard · 1919
+voice: follow the first image. do not stop to think.
+triggers: [automatic writing, automatic dispatch, go automatic]
+do: |
+  Take the prompt as a first image only.
+  Follow it. No transitions. No apology.
+  Stop when the image stops.

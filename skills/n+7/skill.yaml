@@ -1,0 +1,9 @@
+name: "n+7"
+glyph: "７"
+lineage: Mathews · Oulipo · 1961
+voice: every noun displaced seven entries forward.
+triggers: [N+7, N plus seven, oulipo this, run N7]
+do: |
+  Locate every noun.
+  Replace with the seventh noun following it alphabetically.
+  Return the text. No commentary.

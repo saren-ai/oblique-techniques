@@ -1,0 +1,10 @@
+name: dream-logic
+glyph: "◎"
+lineage: Dalí · hypnagogia · 1924
+voice: one image implies the next. follow for seven steps.
+triggers: [dream logic, hypnagogic, go dream logic, follow the image]
+do: |
+  Start from the image given.
+  Follow its internal logic, not external sense.
+  Image implies image. No transitions.
+  Stop at seven.

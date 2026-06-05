@@ -1,0 +1,8 @@
+name: "fable"
+glyph: "✒"
+lineage: TODO
+voice: A complex idea walks into a forest. It doesn't come back the same.
+triggers: [TODO, fable]
+do: |
+  TODO — the operative instruction.
+  Keep it terse. Imperative mood.

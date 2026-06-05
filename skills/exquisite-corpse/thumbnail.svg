@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#1a0a2e"/>
+  <line x1="60" y1="200" x2="540" y2="200" stroke="#fff" stroke-width="0.5" stroke-dasharray="5,4" opacity="0.25"/>
+  <line x1="60" y1="400" x2="540" y2="400" stroke="#fff" stroke-width="0.5" stroke-dasharray="5,4" opacity="0.25"/>
+  <ellipse cx="300" cy="118" rx="52" ry="62" fill="none" stroke="#e8d5b5" stroke-width="1.5"/>
+  <circle cx="286" cy="108" r="5" fill="#e8d5b5"/>
+  <circle cx="314" cy="108" r="5" fill="#e8d5b5"/>
+  <path d="M 286 133 Q 300 146 314 133" stroke="#e8d5b5" stroke-width="1.5" fill="none"/>
+  <rect x="242" y="218" width="116" height="132" fill="none" stroke="#b57edc" stroke-width="1.5" rx="3"/>
+  <line x1="300" y1="218" x2="300" y2="350" stroke="#b57edc" stroke-width="0.8" opacity="0.4"/>
+  <circle cx="272" cy="268" r="11" fill="#b57edc" opacity="0.25"/>
+  <circle cx="328" cy="268" r="11" fill="#b57edc" opacity="0.25"/>
+  <rect x="260" y="418" width="34" height="118" fill="none" stroke="#7ec8e3" stroke-width="1.5" rx="2"/>
+  <rect x="306" y="418" width="34" height="118" fill="none" stroke="#7ec8e3" stroke-width="1.5" rx="2"/>
+  <line x1="260" y1="438" x2="294" y2="438" stroke="#7ec8e3" stroke-width="0.8" opacity="0.5"/>
+  <line x1="260" y1="458" x2="294" y2="458" stroke="#7ec8e3" stroke-width="0.8" opacity="0.5"/>
+  <line x1="260" y1="478" x2="294" y2="478" stroke="#7ec8e3" stroke-width="0.8" opacity="0.5"/>
+  <line x1="306" y1="438" x2="340" y2="438" stroke="#7ec8e3" stroke-width="0.8" opacity="0.5"/>
+  <line x1="306" y1="458" x2="340" y2="458" stroke="#7ec8e3" stroke-width="0.8" opacity="0.5"/>
+  <line x1="306" y1="478" x2="340" y2="478" stroke="#7ec8e3" stroke-width="0.8" opacity="0.5"/>
+  <text x="68" y="128" font-family="Courier New,monospace" font-size="9" fill="#e8d5b5" opacity="0.5">player 01</text>
+  <text x="68" y="305" font-family="Courier New,monospace" font-size="9" fill="#b57edc" opacity="0.5">player 02</text>
+  <text x="68" y="492" font-family="Courier New,monospace" font-size="9" fill="#7ec8e3" opacity="0.5">player 03</text>
+  <text x="300" y="562" font-family="Courier New,monospace" font-size="12" fill="#e8d5b5" text-anchor="middle" letter-spacing="2">exquisite-corpse</text>
+  <text x="300" y="582" font-family="Courier New,monospace" font-size="9" fill="#443355" text-anchor="middle">Breton · Ernst · 1925</text>
+</svg>

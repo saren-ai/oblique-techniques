@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <rect width="160" height="160" fill="#0a0a0a"/>
+  <rect x="6" y="6" width="148" height="148" fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="80" y="86" font-family="Georgia, serif" font-size="48" fill="#e8e8e8" text-anchor="middle" dominant-baseline="middle">❧</text>
+  <text x="80" y="138" font-family="monospace" font-size="9" fill="#888" text-anchor="middle" letter-spacing="2">PLACEHOLDER</text>
+</svg>

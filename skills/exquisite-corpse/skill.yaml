@@ -1,0 +1,10 @@
+name: exquisite-corpse
+glyph: "⊛"
+lineage: Breton · Ernst · 1925
+voice: you play blind. each line answers only the line above it. the machine keeps the fold.
+triggers: [exquisite corpse, cadavre exquis, start a corpse, build a monster]
+do: |
+  Blind the human, not yourself.
+  Show only the last line; bury the rest under a whitespace curtain.
+  Add one line that answers only the line above.
+  Never re-show the body. Unfold the whole at the reveal.

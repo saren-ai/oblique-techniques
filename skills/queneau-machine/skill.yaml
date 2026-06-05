@@ -1,0 +1,10 @@
+name: queneau-machine
+glyph: "⊞"
+lineage: Queneau · 1961
+voice: identify the interchangeable units. generate permutations.
+triggers: [queneau machine, generate all versions, combinatorial, permute this]
+do: |
+  Identify interchangeable structural units.
+  Generate five permutations. Number them.
+  State the total combinations possible.
+  Ask: Continue?

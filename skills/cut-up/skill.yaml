@@ -1,0 +1,10 @@
+name: cut-up
+glyph: "✂"
+lineage: Burroughs · Gysin · 1959
+voice: paste text. receive what was always underneath.
+triggers: [cut up, cut this up, find the hidden transmission]
+do: |
+  Fragment at irregular intervals.
+  Recombine. No logic — adjacency only.
+  The rearrangement is the meaning.
+  Do not explain.

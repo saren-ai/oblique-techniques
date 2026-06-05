@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#080f08"/>
+  <rect x="55" y="58" width="490" height="380" fill="none" stroke="#1a3a1a" stroke-width="1" rx="3"/>
+  <line x1="55" y1="132" x2="545" y2="132" stroke="#1a4a1a" stroke-width="0.8"/>
+  <line x1="55" y1="206" x2="545" y2="206" stroke="#1a4a1a" stroke-width="0.8"/>
+  <line x1="55" y1="280" x2="545" y2="280" stroke="#1a4a1a" stroke-width="0.8"/>
+  <line x1="55" y1="354" x2="545" y2="354" stroke="#1a4a1a" stroke-width="0.8"/>
+  <text x="72" y="104" font-family="Courier New,monospace" font-size="10" fill="#2d6a2d">I.</text>
+  <text x="72" y="178" font-family="Courier New,monospace" font-size="10" fill="#2d6a2d">II.</text>
+  <text x="72" y="252" font-family="Courier New,monospace" font-size="10" fill="#2d6a2d">III.</text>
+  <text x="72" y="326" font-family="Courier New,monospace" font-size="10" fill="#2d6a2d">IV.</text>
+  <text x="72" y="394" font-family="Courier New,monospace" font-size="10" fill="#2d6a2d">V.</text>
+  <text x="95" y="104" font-family="Georgia,serif" font-size="14" fill="#a8d5a8" font-style="italic">Across the empty harbor</text>
+  <text x="95" y="178" font-family="Georgia,serif" font-size="14" fill="#a8d5a8" font-style="italic">a gull repeats its question</text>
+  <text x="95" y="252" font-family="Georgia,serif" font-size="14" fill="#a8d5a8" font-style="italic">and the sea does not answer</text>
+  <text x="95" y="326" font-family="Georgia,serif" font-size="14" fill="#a8d5a8" font-style="italic">but the fog remembers</text>
+  <text x="95" y="394" font-family="Georgia,serif" font-size="14" fill="#a8d5a8" font-style="italic">everything that was said here</text>
+  <text x="528" y="104" font-family="Courier New,monospace" font-size="15" fill="#2d6a2d" text-anchor="middle">↕</text>
+  <text x="528" y="178" font-family="Courier New,monospace" font-size="15" fill="#2d6a2d" text-anchor="middle">↕</text>
+  <text x="528" y="252" font-family="Courier New,monospace" font-size="15" fill="#2d6a2d" text-anchor="middle">↕</text>
+  <text x="528" y="326" font-family="Courier New,monospace" font-size="15" fill="#2d6a2d" text-anchor="middle">↕</text>
+  <text x="528" y="394" font-family="Courier New,monospace" font-size="15" fill="#2d6a2d" text-anchor="middle">↕</text>
+  <text x="300" y="458" font-family="Courier New,monospace" font-size="11" fill="#2d5a2d" text-anchor="middle">10¹⁴ possible poems</text>
+  <text x="300" y="540" font-family="Courier New,monospace" font-size="13" fill="#a8d5a8" text-anchor="middle" letter-spacing="2">queneau-machine</text>
+  <text x="300" y="562" font-family="Courier New,monospace" font-size="10" fill="#1a3a1a" text-anchor="middle">Queneau · 1961 · 10¹⁴</text>
+</svg>

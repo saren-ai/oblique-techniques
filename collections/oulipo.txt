@@ -1,0 +1,4 @@
+# oulipo — constraint as engine
+n+7
+lipogram
+queneau-machine

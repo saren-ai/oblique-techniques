@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#f5f3ef"/>
+  <line x1="60" y1="60" x2="60" y2="480" stroke="#ccc" stroke-width="1"/>
+  <text x="80" y="140" font-family="Georgia,serif" font-size="12" fill="#aaa">1. nabob</text>
+  <text x="80" y="162" font-family="Georgia,serif" font-size="12" fill="#aaa">2. nadir</text>
+  <text x="80" y="184" font-family="Georgia,serif" font-size="12" fill="#aaa">3. nagware</text>
+  <text x="80" y="206" font-family="Georgia,serif" font-size="12" fill="#aaa">4. naiad</text>
+  <text x="80" y="228" font-family="Georgia,serif" font-size="12" fill="#555">5. name</text>
+  <text x="80" y="250" font-family="Georgia,serif" font-size="12" fill="#555">6. nap</text>
+  <text x="80" y="278" font-family="Georgia,serif" font-size="13" fill="#0a0a0a" font-weight="bold">7. narcissism ←</text>
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#c0392b"/>
+    </marker>
+  </defs>
+  <path d="M 260 228 Q 340 180 340 270" stroke="#c0392b" stroke-width="2" fill="none" marker-end="url(#arr)"/>
+  <text x="420" y="200" font-family="Georgia,serif" font-size="80" fill="#0a0a0a" text-anchor="middle" opacity="0.08">N</text>
+  <text x="390" y="310" font-family="Georgia,serif" font-size="64" fill="#0a0a0a" text-anchor="middle">N⁺⁷</text>
+  <text x="300" y="390" font-family="Georgia,serif" font-size="12" fill="#888" text-anchor="middle" font-style="italic">"the cat sat on the mat"</text>
+  <text x="300" y="418" font-family="Courier New,monospace" font-size="11" fill="#bbb" text-anchor="middle">↓</text>
+  <text x="300" y="442" font-family="Georgia,serif" font-size="12" fill="#c0392b" text-anchor="middle" font-style="italic">"the caucus sat on the narcissism"</text>
+  <text x="300" y="528" font-family="Courier New,monospace" font-size="14" fill="#0a0a0a" text-anchor="middle" letter-spacing="4">n+7</text>
+  <text x="300" y="550" font-family="Courier New,monospace" font-size="10" fill="#aaa" text-anchor="middle">Mathews · Oulipo · 1961</text>
+</svg>

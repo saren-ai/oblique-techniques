@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#040d14"/>
+  <text x="88" y="95" font-family="Georgia,serif" font-size="13" fill="#e8d5b5" opacity="0.85" font-style="italic">the first image is —</text>
+  <path d="M 75 118 Q 200 96 305 134 Q 412 172 538 112" stroke="#e8d5b5" stroke-width="1.4" fill="none" opacity="0.75"/>
+  <path d="M 62 158 Q 185 136 292 172 Q 408 210 536 154" stroke="#e8d5b5" stroke-width="1.3" fill="none" opacity="0.65"/>
+  <path d="M 78 198 Q 198 174 308 212 Q 422 252 528 198" stroke="#e8d5b5" stroke-width="1.2" fill="none" opacity="0.55"/>
+  <path d="M 68 238 Q 188 216 302 252 Q 418 290 532 238" stroke="#e8d5b5" stroke-width="1.1" fill="none" opacity="0.46"/>
+  <path d="M 80 278 Q 198 255 308 292 Q 420 330 528 278" stroke="#e8d5b5" stroke-width="1.1" fill="none" opacity="0.38"/>
+  <path d="M 72 318 Q 192 295 304 332 Q 420 370 532 318" stroke="#e8d5b5" stroke-width="1" fill="none" opacity="0.30"/>
+  <path d="M 78 358 Q 195 335 308 372 Q 424 410 528 358" stroke="#e8d5b5" stroke-width="1" fill="none" opacity="0.22"/>
+  <path d="M 85 398 Q 205 375 318 412 Q 428 448 525 398" stroke="#e8d5b5" stroke-width="0.9" fill="none" opacity="0.15"/>
+  <path d="M 92 438 Q 215 415 328 452 Q 435 486 520 438" stroke="#e8d5b5" stroke-width="0.8" fill="none" opacity="0.09"/>
+  <path d="M 100 478 Q 222 455 338 490" stroke="#e8d5b5" stroke-width="0.6" fill="none" opacity="0.05"/>
+  <text x="300" y="546" font-family="Courier New,monospace" font-size="13" fill="#e8d5b5" text-anchor="middle" letter-spacing="3">automatic-dispatch</text>
+  <text x="300" y="568" font-family="Courier New,monospace" font-size="10" fill="#1a2a34" text-anchor="middle">Breton · Éluard · 1919</text>
+</svg>
