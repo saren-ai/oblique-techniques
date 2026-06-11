@@ -1,5 +1,16 @@
 # Oblique Technique
 
+```
+  ___    ____    _       ___    ___    _   _   _____
+ / _ \  | __ )  | |     |_ _|  / _ \  | | | | | ____|
+| | | | |  _ \  | |      | |  | | | | | | | | |  _|
+- - - - - - - - - - - - - - - - - - - - - - - - ✂
+   | |_| | | |_) | | |___   | |  | |_| | | |_| | | |___
+    \___/  |____/  |_____| |___|  \__\_\  \___/  |_____|
+
+            T  E  C  H  N  I  Q  U  E
+```
+
 The machine has read everything.
 It has read Middlemarch and the Pepsi can and your ex's substack
 and the entire archive of the Paris Review.
@@ -42,21 +53,72 @@ the most statistically likely next word.
 
 ## The collection
 
-| stratagem | the move |
-|---|---|
-| [cut-up](./skills/cut-up/) | Slice. Recombine. Receive. |
-| [n+7](./skills/n+7/) | Every noun replaced by its seventh dictionary successor. |
-| [exquisite-corpse](./skills/exquisite-corpse/) | Each line sees only the line before it. The monster assembles itself. |
-| [event-score](./skills/event-score/) | An instruction that may be impossible, quiet, or devastating. |
-| [automatic-dispatch](./skills/automatic-dispatch/) | Follow the first image. Do not stop to think. |
-| [détournement](./skills/détournement/) | Turn the text against itself using only its own vocabulary. |
-| [queneau-machine](./skills/queneau-machine/) | Combinatorial. 10¹⁴ permutations. |
-| [lipogram](./skills/lipogram/) | One letter permanently exiled. The gap is the point. |
-| [dream-logic](./skills/dream-logic/) | One image implies the next. Stop at seven. |
-| [oblique-interrupt](./skills/oblique-interrupt/) | When stuck: a constraint that feels like a non-sequitur. |
-| [entendre-engine](./skills/entendre-engine/) | Surface the double meanings already in the room. |
-| [pretentious-engine](./skills/pretentious-engine/) | Run anything through the most overwrought theoretical lens available. |
-| [fable](./skills/fable/) | A complex idea walks into a forest. It doesn't come back the same. |
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="./skills/cut-up/"><img src="./skills/cut-up/thumbnail.svg" width="180" alt="cut-up"><br><b>cut-up</b></a><br>
+  <sub>Scissors for people who don't own scissors. The text knew all along — it was just waiting to be rearranged.</sub>
+</td>
+<td align="center" width="33%">
+  <a href="./skills/n+7/"><img src="./skills/n+7/thumbnail.svg" width="180" alt="n+7"><br><b>n+7</b></a><br>
+  <sub>Every noun, marched seven entries down the dictionary. The sentence survives. Mostly.</sub>
+</td>
+<td align="center" width="33%">
+  <a href="./skills/exquisite-corpse/"><img src="./skills/exquisite-corpse/thumbnail.svg" width="180" alt="exquisite-corpse"><br><b>exquisite-corpse</b></a><br>
+  <sub>The parlor game, except you play blind and the machine keeps the fold. For once it knows something you don't, and it's your poem.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="./skills/event-score/"><img src="./skills/event-score/thumbnail.svg" width="180" alt="event-score"><br><b>event-score</b></a><br>
+  <sub>One to four lines of instruction. May be impossible. Still due Friday.</sub>
+</td>
+<td align="center" width="33%">
+  <a href="./skills/automatic-dispatch/"><img src="./skills/automatic-dispatch/thumbnail.svg" width="180" alt="automatic-dispatch"><br><b>automatic-dispatch</b></a><br>
+  <sub>First thought, only thought. No transitions, no apologies, no adult supervision.</sub>
+</td>
+<td align="center" width="33%">
+  <a href="./skills/détournement/"><img src="./skills/détournement/thumbnail.svg" width="180" alt="détournement"><br><b>détournement</b></a><br>
+  <sub>Your text, but it defected. Using only its own words. The audacity.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="./skills/queneau-machine/"><img src="./skills/queneau-machine/thumbnail.svg" width="180" alt="queneau-machine"><br><b>queneau-machine</b></a><br>
+  <sub>Five versions now. The remaining 99,999,999,999,995 on request.</sub>
+</td>
+<td align="center" width="33%">
+  <a href="./skills/lipogram/"><img src="./skills/lipogram/thumbnail.svg" width="180" alt="lipogram"><br><b>lipogram</b></a><br>
+  <sub>One letter, exiled. You'll feel the draft coming through the gap.</sub>
+</td>
+<td align="center" width="33%">
+  <a href="./skills/dream-logic/"><img src="./skills/dream-logic/thumbnail.svg" width="180" alt="dream-logic"><br><b>dream-logic</b></a><br>
+  <sub>Seven images deep, zero connective tissue. Dalí needed a key and a plate. You need a prompt.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="./skills/oblique-interrupt/"><img src="./skills/oblique-interrupt/thumbnail.svg" width="180" alt="oblique-interrupt"><br><b>oblique-interrupt</b></a><br>
+  <sub>Not advice. Something worse: a non-sequitur that turns out to be correct.</sub>
+</td>
+<td align="center" width="33%">
+  <a href="./skills/entendre-engine/"><img src="./skills/entendre-engine/thumbnail.svg" width="180" alt="entendre-engine"><br><b>entendre-engine</b></a><br>
+  <sub>Finds out what your text has been saying behind your back.</sub>
+</td>
+<td align="center" width="33%">
+  <a href="./skills/pretentious-engine/"><img src="./skills/pretentious-engine/thumbnail.svg" width="180" alt="pretentious-engine"><br><b>pretentious-engine</b></a><br>
+  <sub>Your grocery list is now a site of contested meaning. You're welcome.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="./skills/fable/"><img src="./skills/fable/thumbnail.svg" width="180" alt="fable"><br><b>fable</b></a><br>
+  <sub>Your hardest concept, but with fur on it. You won't see it coming until the moral does.</sub>
+</td>
+<td align="center" width="33%"></td>
+<td align="center" width="33%"></td>
+</tr>
+</table>
 
 More coming.
 The goal is a hundred.
@@ -70,27 +132,27 @@ For lineages, sources, and what's built versus pending, see [CATALOG.md](./CATAL
 One stratagem:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/saren-ai/oblique-technique/main/install.sh | bash -s -- cut-up
+curl -fsSL https://raw.githubusercontent.com/saren-ai/oblique-techniques/main/install.sh | bash -s -- cut-up
 ```
 
 A starting set:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/saren-ai/oblique-technique/main/install.sh | bash -s -- @starter
+curl -fsSL https://raw.githubusercontent.com/saren-ai/oblique-techniques/main/install.sh | bash -s -- @starter
 ```
 
 By lineage:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/saren-ai/oblique-technique/main/install.sh | bash -s -- @surrealist
-curl -fsSL https://raw.githubusercontent.com/saren-ai/oblique-technique/main/install.sh | bash -s -- @oulipo
-curl -fsSL https://raw.githubusercontent.com/saren-ai/oblique-technique/main/install.sh | bash -s -- @fluxus
+curl -fsSL https://raw.githubusercontent.com/saren-ai/oblique-techniques/main/install.sh | bash -s -- @surrealist
+curl -fsSL https://raw.githubusercontent.com/saren-ai/oblique-techniques/main/install.sh | bash -s -- @oulipo
+curl -fsSL https://raw.githubusercontent.com/saren-ai/oblique-techniques/main/install.sh | bash -s -- @fluxus
 ```
 
 All of them:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/saren-ai/oblique-technique/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/saren-ai/oblique-techniques/main/install.sh | bash
 ```
 
 Stratagems land in `~/.claude/skills/` (override with `OBLIQUE_SKILLS_DIR`). The accented slugs take plain-ASCII aliases — `n7` for `n+7`, `detournement` for `détournement`.
@@ -112,4 +174,4 @@ You're still the one making something.
 
 ---
 
-*Claude skills for Liberal Arts Majors.*
+*Skills for Liberal Arts Majors. (SLAM)*

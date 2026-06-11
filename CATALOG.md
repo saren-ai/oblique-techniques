@@ -1,7 +1,7 @@
 # Catalog
 
 A human-readable index of every stratagem in **Oblique Technique**.
-Thirteen built or scaffolded. The structure is designed to grow toward one hundred.
+Thirteen built. The structure is designed to grow toward one hundred.
 
 `✓` = written · `◦` = scaffolded, content pending
 
@@ -29,11 +29,17 @@ Thirteen built or scaffolded. The structure is designed to grow toward one hundr
 
 - **détournement** `✓` — *Debord · Wolman · 1956.* Reverse a text's allegiance using only its own vocabulary. Never announce the reversal.
 
-## Pending
+## Dada
 
-- **entendre-engine** `◦` — Surface the double meanings already in the room. *Operative instructions to be written.*
-- **pretentious-engine** `◦` — Run anything through the most overwrought theoretical lens available. *Operative instructions to be written.*
-- **fable** `◦` — A complex idea walks into a forest. It doesn't come back the same. *Operative instructions to be written.*
+- **entendre-engine** `✓` — *Duchamp · Rrose Sélavy · 1922.* Surface the double meanings already latent in the input. Import nothing; excavate. Never explain the joke.
+
+## Structuralist
+
+- **pretentious-engine** `✓` — *Barthes · Mythologies · 1957.* Read the trivial with total theoretical seriousness. One heavy lens, full commitment, never a wink.
+
+## Ancients
+
+- **fable** `✓` — *Aesop · La Fontaine · c. 570 BC.* Embody a complex concept entirely in story — recognition dawns only near the end, then a short reveal maps each moment back to the idea.
 
 ---
 

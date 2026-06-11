@@ -1,6 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
-  <rect width="160" height="160" fill="#0a0a0a"/>
-  <rect x="6" y="6" width="148" height="148" fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-dasharray="4 4"/>
-  <text x="80" y="86" font-family="Georgia, serif" font-size="48" fill="#e8e8e8" text-anchor="middle" dominant-baseline="middle">✒</text>
-  <text x="80" y="138" font-family="monospace" font-size="9" fill="#888" text-anchor="middle" letter-spacing="2">PLACEHOLDER</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#0a0a0a"/>
+  <!-- forest -->
+  <g stroke="#f5f3ef" fill="none" stroke-width="1.5">
+    <path d="M150 120 L120 320 M150 120 L180 320" opacity="0.55"/>
+    <path d="M240 80 L200 340 M240 80 L280 340" opacity="0.8"/>
+    <path d="M330 130 L300 330 M330 130 L360 330" opacity="0.5"/>
+    <path d="M420 90 L380 345 M420 90 L460 345" opacity="0.75"/>
+    <path d="M500 150 L475 325 M500 150 L525 325" opacity="0.4"/>
+  </g>
+  <!-- what walks in -->
+  <rect x="52" y="368" width="26" height="26" fill="none" stroke="#888" stroke-width="1.5"/>
+  <text x="100" y="389" font-family="Courier New,monospace" font-size="16" fill="#666">→</text>
+  <!-- what comes out -->
+  <text x="470" y="394" font-family="Courier New,monospace" font-size="16" fill="#666">→</text>
+  <path d="M520 392 q14 -20 26 -4 q10 14 -8 18 q-14 3 -18 -14 m26 -8 l8 -10" fill="none" stroke="#f5f3ef" stroke-width="1.5"/>
+  <circle cx="538" cy="386" r="1.5" fill="#f5f3ef"/>
+  <!-- ground -->
+  <line x1="40" y1="412" x2="560" y2="412" stroke="#f5f3ef" stroke-width="1" opacity="0.3"/>
+  <text x="300" y="466" font-family="Georgia,serif" font-size="17" fill="#888" text-anchor="middle" font-style="italic">it doesn't come back the same</text>
+  <text x="300" y="548" font-family="Courier New,monospace" font-size="14" fill="#f5f3ef" text-anchor="middle" letter-spacing="4">fable</text>
+  <text x="300" y="571" font-family="Courier New,monospace" font-size="10" fill="#555" text-anchor="middle">Aesop · La Fontaine · c. 570 BC</text>
 </svg>

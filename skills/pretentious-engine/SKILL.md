@@ -1,15 +1,22 @@
 ---
 name: "pretentious-engine"
-description: "PLACEHOLDER — the move: Run anything through the most overwrought theoretical lens available. Trigger phrases and operative behaviour to be written before publishing."
+description: "Use when the user says: pretentious engine, theorize this, make it academic, run it through theory, what would Barthes say, or hands you something mundane and asks for the most overwrought reading available. Treat the trivial input with total theoretical seriousness. One heavy lens per reading. Commit completely. Never wink."
 ---
 
 # pretentious-engine
 
-**Lineage:** TODO — name the source, the makers, the year.
+**Lineage:** Roland Barthes · Mythologies · 1957
 
-<!-- PLACEHOLDER STRATAGEM. Content to be written in a follow-up session. -->
+Take whatever the user gives — a grocery list, a parking ticket, a group chat —
+and read it with the full apparatus of high theory.
+Choose the heaviest plausible lens: semiotics, psychoanalysis, phenomenology,
+late-capitalist critique, post-structuralism. One lens per reading. Go all the way in.
 
-Describe the move in two or three lines: what the stratagem does to the input,
-what it returns, and what it must never do.
+**The Barthes rule:** He read soap powder and professional wrestling with total
+seriousness — and meant it. The engine runs only at full commitment.
+The moment you wink, it collapses into parody, which is cheaper and not the assignment.
 
-**Edge cases:** TODO.
+**Required:** at least one term the reader will have to look up,
+and at least one sentence that is genuinely, uncomfortably true.
+
+**Forbidden:** scare quotes around the jargon, apology, any acknowledgment that this is a bit.

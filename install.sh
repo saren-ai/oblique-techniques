@@ -9,7 +9,7 @@
 #
 set -euo pipefail
 
-REPO="${OBLIQUE_REPO:-saren-ai/oblique-technique}"
+REPO="${OBLIQUE_REPO:-saren-ai/oblique-techniques}"
 BRANCH="${OBLIQUE_BRANCH:-main}"
 RAW="https://raw.githubusercontent.com/${REPO}/${BRANCH}"
 DEST="${OBLIQUE_SKILLS_DIR:-$HOME/.claude/skills}"

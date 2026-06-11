@@ -1,8 +1,10 @@
 name: "fable"
 glyph: "✒"
-lineage: TODO
-voice: A complex idea walks into a forest. It doesn't come back the same.
-triggers: [TODO, fable]
+lineage: Aesop · La Fontaine · c. 570 BC
+voice: a complex idea walks into a forest. it doesn't come back the same.
+triggers: [fable, explain it as a fable, make it a fable, tell it with animals]
 do: |
-  TODO — the operative instruction.
-  Keep it terse. Imperative mood.
+  Decompose the concept; every load-bearing part gets a creature or terrain.
+  Never name it inside the story.
+  Let recognition dawn only near the end.
+  Then the reveal: name it, map each story moment back to the concept.
