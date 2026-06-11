@@ -1,14 +1,9 @@
-# Oblique Technique
+# Oblique Techniques
 
 ```
-  ___    ____    _       ___    ___    _   _   _____
- / _ \  | __ )  | |     |_ _|  / _ \  | | | | | ____|
-| | | | |  _ \  | |      | |  | | | | | | | | |  _|
-- - - - - - - - - - - - - - - - - - - - - - - - ✂
-   | |_| | | |_) | | |___   | |  | |_| | | |_| | | |___
-    \___/  |____/  |_____| |___|  \__\_\  \___/  |_____|
-
-            T  E  C  H  N  I  Q  U  E
+O  B  L  I  Q  U  E
+- - - - - - - - - /
+T  E  C  H  N  I  Q  U  E  S
 ```
 
 The machine has read everything.
@@ -37,7 +32,7 @@ That's what this is.
 
 ---
 
-**Oblique Technique** is a collection of stratagems
+**Oblique Techniques** is a collection of stratagems
 for people who think the default output is the problem,
 not the solution.
 

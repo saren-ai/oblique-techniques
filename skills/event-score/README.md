@@ -50,4 +50,4 @@ curl -fsSL https://raw.githubusercontent.com/saren-ai/oblique-techniques/main/in
 
 ---
 
-<div align="center"><sub>A stratagem in <a href="../../README.md">Oblique Technique</a> — <i>Skills for Liberal Arts Majors. (SLAM)</i></sub></div>
+<div align="center"><sub>A stratagem in <a href="../../README.md">Oblique Techniques</a> — <i>Skills for Liberal Arts Majors. (SLAM)</i></sub></div>
