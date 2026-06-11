@@ -36,7 +36,8 @@ urlencode() {
     c="${s:i:1}"
     case "$c" in
       [a-zA-Z0-9._~-]) out+="$c" ;;
-      *) printf -v c '%%%02X' "'$c"; out+="$c" ;;
+      # mask to one byte: bash 3.2 (macOS default) sign-extends bytes >= 0x80
+      *) printf -v c '%%%02X' "$(( $(printf '%d' "'$c") & 0xFF ))"; out+="$c" ;;
     esac
   done
   printf '%s' "$out"
