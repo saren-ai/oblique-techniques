@@ -9,26 +9,24 @@ T  E  C  H  N  I  Q  U  E  S
 The machine has read everything.
 It has read Middlemarch and the Pepsi can and your ex's substack
 and the entire archive of the Paris Review.
-It has read more than you will ever read.
-And it is very, very good at sounding like all of it at once.
+It's very, very good at sounding like all of it at once.
 
 Noam Chomsky called it a plagiarism machine.
 He's not wrong.
 
 ---
 
-The question isn't whether AI can be creative.
-That argument is over and everyone lost.
+But the real problem isn't that it's derivative.
+It's that it's *meh* — every output aimed at the statistical
+center of everything that's ever been written.
 
-The question is: what do you do with a machine
-that defaults to the average of everything that's ever been written?
+You don't fix that by arguing with it.
+You fix it by handing it a constraint it wasn't built for
+and seeing what survives.
 
-You don't argue with it.
-You don't explain yourself to it.
-You give it a constraint it wasn't built for
-and see what comes out the other side.
-
-That's what this is.
+That's this repo.
+Free /skills, on purpose — because the fastest way to kill
+the slop is to give people something more interesting to do instead.
 
 ---
 
@@ -168,5 +166,7 @@ The model is just running the machine.
 You're still the one making something.
 
 ---
+
+Take one. See what it does to your next draft.
 
 *Skills for Liberal Arts Majors. (SLAM)*
